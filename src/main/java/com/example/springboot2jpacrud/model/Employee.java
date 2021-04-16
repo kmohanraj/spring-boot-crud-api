@@ -1,6 +1,7 @@
 package com.example.springboot2jpacrud.model;
 
 import javax.persistence.*;
+
 @Entity
 @Table(name = "employees")
 
